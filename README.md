@@ -1,2 +1,2 @@
 # iOS-HodorKeyboard
-*Özelleştirilmiş klavye yapımına örnek bir uygulamadır.
+* Özelleştirilmiş klavye yapımına örnek bir uygulamadır.
